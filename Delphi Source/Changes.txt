@@ -1,0 +1,11 @@
+Version 1.01
+* Can now save atlas as a LZRW compressed Windows bitmap
+* Rearranged buttons at bottom left of window
+* Added new button - "Load Atlas": loads and splits an existing atlas into tiles
+* Added new button - "Save atlas back to files": Saves the tiles as seperate files
+* Added a progress bar that shows up when the user selects "Lowest" for bits per pixel
+* Added new button - About application
+* Added new dialogue box - About application
+
+Version 1.00
+* Initial version
